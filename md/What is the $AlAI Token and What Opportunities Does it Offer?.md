@@ -1,6 +1,6 @@
 What is the $AlAI Token and What Opportunities Does it Offer?
 2024-09-16
-https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/4.png
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/4.webp
 
 In the modern world of blockchain technology and digital assets, tokens
 have become an essential tool for participating in various ecosystems.

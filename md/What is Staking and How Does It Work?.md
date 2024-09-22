@@ -1,6 +1,6 @@
 What is Staking and How Does It Work?
 2024-09-16
-https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/2.png
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/2.webp
 
 In the rapidly evolving world of cryptocurrency, **staking** has become
 a popular way for token holders to earn passive income. Staking allows

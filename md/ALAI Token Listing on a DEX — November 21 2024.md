@@ -1,6 +1,6 @@
 ALAI Token Listing on a DEX — November 21 2024
 2024-09-16
-https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/1.png
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/1.webp
 
 We are excited to announce that on **November 21, 2024**, the **$ALAI token** will officially be available for trading on a decentralized exchange (DEX). This is a significant milestone in our project’s development, opening new opportunities for the community and investors.
 
