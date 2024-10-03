@@ -21,13 +21,13 @@ First, historical data is processed through scaling and quantization, converting
 
 After the data is tokenized, it’s passed through a time series language model. The architecture of this model can be either a "encoder-decoder" setup or a "decoder-only" model, both of which help the AI interpret and predict future trends. The training process uses a loss function called cross-entropy, which helps the AI learn from its mistakes by comparing its predictions to actual market outcomes. This continuous learning process refines the model’s accuracy, allowing it to make better predictions over time.
 
-![Training the Model](path/to/image2.png)  
+![Training the Model](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/1.2.webp)  
 
 ### Inference and Forecasting (Right Panel)
 
 During the inference phase, the AI generates probabilistic forecasts by predicting future tokens based on past ones. These tokens are then converted back into numerical values, representing potential market outcomes. To ensure robustness, multiple future trajectories are generated, giving the system a range of possible outcomes. This helps traders make informed decisions, even in volatile markets.
 
-![Inference and Forecasting](path/to/image3.png)  
+![Inference and Forecasting](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/1.3.webp)  
 
 ## How ALAI Network Utilizes Chronos
 
