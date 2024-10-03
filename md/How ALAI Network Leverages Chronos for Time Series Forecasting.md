@@ -15,7 +15,7 @@ Chronos operates by breaking down time series data (such as stock prices, crypto
 
 First, historical data is processed through scaling and quantization, converting complex market fluctuations into tokens that the AI can understand. Think of this like turning a graph of fluctuating prices into a sequence of numbers that the model can learn from. This is the foundation on which the AI is trained.
 
-![Time Series Tokenization](path/to/image1.png) 
+![Time Series Tokenization](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/1.1.webp) 
 
 ### Training the Model (Central Panel)
 
