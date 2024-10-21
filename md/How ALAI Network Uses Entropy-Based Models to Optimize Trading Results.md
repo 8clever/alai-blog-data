@@ -34,8 +34,6 @@ Entropy-based models can be beneficial in trading in the following aspects:
 
 ## How ALAI Network Uses Entropy-Based Model
 
-![Uses Entropy-Based Model](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/9.1.webp) 
-
 ALAI Network employs an ensemble approach, where entropy-based models interact with other algorithms, creating synergy and enhancing the efficiency of trading strategies. This means the system does not rely on a single model but utilizes a diversity of methods for analysis and decision-making. Such an approach improves the overall quality of predictions, minimizing the impact of potential errors from any individual model.
 
 ### Assessing Market Uncertainty
