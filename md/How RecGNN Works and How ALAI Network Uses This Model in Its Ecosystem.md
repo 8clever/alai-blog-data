@@ -1,11 +1,14 @@
-
-# How RecGNN Works and How ALAI Network Uses This Model in Its Ecosystem
+How RecGNN Works and How ALAI Network Uses This Model in Its Ecosystem
+2024-11-07
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/26.webp
 
 ALAI Network actively uses various machine learning models to enhance its trading and analytical strategies. One of these models is **RecGNN** (Recurrent Graph Neural Network), which helps analyze complex market data, detect patterns, and forecast future changes. In this article, we'll explore how RecGNN works, how it's used in ALAI Network, and how it integrates into the broader model ecosystem to improve the performance of the network.
 
 ## How Does RecGNN Work?
 
 ### Graph Models with Temporal Dependencies
+
+![Graph Model](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/13.1.webp) 
 
 RecGNN is a powerful machine learning model designed to work with dynamic graphs. Unlike traditional neural networks, it analyzes data while considering temporal changes in the interactions between nodes. Nodes may represent cryptocurrency addresses, users, or transactions, and edges represent the connections between them.
 
@@ -22,6 +25,8 @@ For the cryptocurrency market, where user activity and transactions can be extre
 ## How RecGNN Is Used in ALAI Network
 
 ### Example of Use: Predicting Market "Crash" After Transaction Surge
+
+![Example of Use](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/13.2.webp) 
 
 In October 2024, the Ethereum network experiences an abnormal surge in transactions. This increased activity is linked to a large speculative wave and a potential token pump. RecGNN analyzes the transaction data and identifies unusual patterns.
 
