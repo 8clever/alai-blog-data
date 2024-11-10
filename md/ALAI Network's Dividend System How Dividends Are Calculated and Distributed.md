@@ -1,5 +1,6 @@
-
-# ALAI Network's Dividend System: How Dividends Are Calculated and Distributed
+ALAI Network's Dividend System: How Dividends Are Calculated and Distributed
+2024-11-10
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/28.webp
 
 The ALAI Network's dividend system is designed to reward token holders with consistent monthly payouts, providing participants with the opportunity for passive income. This post will explain how the system works, how much has already been paid out over the past six months, and the mechanisms behind its operation.
 
@@ -7,10 +8,15 @@ The ALAI Network's dividend system is designed to reward token holders with cons
 Over the last six months, ALAI Network has consistently distributed dividends to token holders. The payouts depend on the profits generated each month by the AI system, with the following actual monthly payouts as a percentage of AI-generated profits:
 
 - **May**: 6.5%
+
 - **June**: 5.2%
+
 - **July**: 8.2%
+
 - **August**: 5.3%
+
 - **September**: 5.0%
+
 - **October**: 5.2%
 
 The average dividend payout over this period is approximately 5.9%.
