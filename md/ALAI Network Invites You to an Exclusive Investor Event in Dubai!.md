@@ -2,7 +2,7 @@ ALAI Network Invites You to an Exclusive Investor Event in Dubai!
 2024-10-11
 https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/13.webp
 
-**Dates**: December 21-22, 2024
+**Dates**: February 15-16, 2025
 
 We are thrilled to announce an exceptional event for our dedicated community! This December, ALAI Network is hosting an exclusive investor gathering in **Dubai**. This event will not only be a celebration of our journey and future milestones but also a chance to connect with like-minded individuals, industry leaders, and top investors.
 
