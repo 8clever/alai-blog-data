@@ -72,4 +72,4 @@ This isn’t just an event—it’s your chance to become more deeply integrated
 
 ## Invest in ALAI and Join Us in Dubai!
 
-Don't miss your chance to be a part of this exclusive opportunity. Invest in **$ALAI** today, secure your spot as a top holder, and join us in **Dubai from December 21-22**. It's not just about growing your portfolio—it’s about becoming part of the future of AI-powered investing.
+Don't miss your chance to be a part of this exclusive opportunity. Invest in **$ALAI** today, secure your spot as a top holder, and join us in **Dubai from February 15-16, 2025**. It's not just about growing your portfolio—it’s about becoming part of the future of AI-powered investing.
