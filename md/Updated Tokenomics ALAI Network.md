@@ -1,5 +1,7 @@
+Updated Tokenomics: ALAI Network
+2024-11-22
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/36.webp
 
-# Updated Tokenomics: ALAI Network
 
 We’re excited to unveil the updated tokenomics for ALAI Network, reflecting our commitment to fostering a decentralized and robust ecosystem. By revising the distribution of ALAI tokens, we aim to prioritize inclusivity, sustainability, and transparency, ensuring long-term growth for the network.
 
@@ -9,9 +11,13 @@ After a thorough review, here’s how the **21,000,000 ALAI tokens** will be all
 
 - **Public Presale**: 55% = 11,550,000 ALAI  
   *(Previously 40%)*  
+
 - **Team**: 10% = 2,100,000 ALAI  
+
 - **Development**: 20% = 4,200,000 ALAI  
+
 - **Marketing**: 5% = 1,050,000 ALAI  
+
 - **CEX Reserves**: 10% = 2,100,000 ALAI  
 
 ## Why We Increased the Public Presale Allocation
