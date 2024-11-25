@@ -18,7 +18,7 @@ Here’s the important information:
 
 - After that, a 30-day final preparation period will begin. During this time, all necessary steps for the final preparations for the CEX listing will be completed.
 
-- Therefore, the CEX listing date is **March 5, 2025**. This is the confirmed date you can rely on.
+- Therefore, the CEX listing date is **March 4, 2025**. This is the confirmed date you can rely on.
 
 ## Why Is This Important?
 
