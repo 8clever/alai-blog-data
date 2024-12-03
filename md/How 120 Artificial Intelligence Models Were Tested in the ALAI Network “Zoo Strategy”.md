@@ -1,5 +1,5 @@
 How 120 Artificial Intelligence Models Were Tested in the ALAI Network “Zoo Strategy”
-2024-11-03
+2024-12-03
 https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/42.webp
 
 
