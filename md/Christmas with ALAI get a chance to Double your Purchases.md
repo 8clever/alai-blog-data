@@ -30,7 +30,7 @@ Typical giveaways are often seen as short-term campaigns that may increase activ
 
 ## Key Dates
 
-- **Participation Period**: December 25 4 pm UTC to January 1st 12 pm UTC. Make purchases of ALAI tokens to automatically enter the giveaway.
+- **Participation Period**: December 25  12 pm UTC to January 1st 12 pm UTC. Make purchases of ALAI tokens to automatically enter the giveaway.
 
 - **AMA Session**: January 3 at 15:00 UTC. We will host a live session to select the winners using a randomizer program and answer your questions.
 
