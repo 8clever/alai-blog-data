@@ -1,5 +1,6 @@
-
-# ALAI Network: Transparency Tools in the Ecosystem
+ALAI Network: Transparency Tools in the Ecosystem
+2024-12-27
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/52.webp
 
 Transparency is a cornerstone of trust in the world of cryptocurrency. For investors, it serves as a guarantee of a project’s integrity, fair operations, and commitment to open principles. At ALAI Network, transparency is embedded into every aspect of the ecosystem to ensure security, reliability, and user convenience.
 
@@ -17,8 +18,11 @@ Weekly reports on referral payouts are published to enhance overall system trans
 
 ## Personal Wallet Statistics in the Console
 On the dashboard page, users can see:
+
 - Total payouts from the dividend system.
+
 - The current number of tokens in their account.
+
 - Statistics on the referral program.
 
 Additionally, the “Tiers” section helps users understand the rules of the referral system and the conditions for participating in USDT staking.
