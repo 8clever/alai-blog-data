@@ -20,7 +20,7 @@ dividend payout and how our trading AI continues to generate steady income for o
 
 Our AI-powered trading system operates 24/7, leveraging advanced machine learning algorithms to 
 execute trades with precision. The monthly performance of the trading pool determines the dividends 
-distributed to token holders. In December, our trading models delivered a stellar 8.4% overall system 
+distributed to token holders. In December, our trading models delivered 8.4% overall system 
 performance, with half of the profits shared directly with our investors.
 
 ## Impressive Growth in $ALAI Distribution
