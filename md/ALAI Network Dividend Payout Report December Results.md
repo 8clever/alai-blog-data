@@ -43,7 +43,3 @@ regular dividend payouts, just like our current beneficiaries.
 
 ### Watch Your Investment Grow
 With a proven track record and robust AI-driven systems, your passive income potential is limitless.
-
-As we approach the $1M milestone in our trading pool, the possibilities for greater returns grow exponentially. 
-Stay tuned for upcoming updates, including new trading strategies and more tools to enhance transparency 
-and user experience.
