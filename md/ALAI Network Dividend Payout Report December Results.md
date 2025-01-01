@@ -36,7 +36,7 @@ the project’s potential.
 
 - **Current Price**: $0.49 per token
 
-- **Projected Listing Price**: $2 per token
+- **Listing Price**: $2 per token
 
 By investing now, you not only secure tokens at a discounted rate but also set yourself up to receive 
 regular dividend payouts, just like our current beneficiaries.
