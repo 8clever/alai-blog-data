@@ -1,5 +1,6 @@
-
-# What Are Dividends in ALAI Network?
+What Are Dividends in ALAI Network?
+2025-01-10
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/57.webp
 
 Dividends in ALAI Network are monthly payouts to our investors, derived from the profits of the AI trading pool. These payouts provide stable passive income for token holders, ensuring transparency and predictability.
 
@@ -18,21 +19,33 @@ Dividends are distributed on the 1st of each month, reflecting the system's prof
 ## Dividend Statistics
 
 Historical dividend payouts per token demonstrate consistent growth:
+
 - **December**: 0.0094376 USDT
+
 - **November**: 0.01064 USDT
+
 - **October**: 0.00591571 USDT
+
 - **September**: 0.00457884 USDT
+
 - **August**: 0.004156 USDT
+
 - **July**: 0.004651 USDT
 
 ## Growth of the AI Pool
 
 The size of the AI trading pool shows steady capital growth:
+
 - **December**: $921,197
+
 - **November**: $538,153
+
 - **October**: $257,530
+
 - **September**: $172,980
+
 - **August**: $130,660
+
 - **July**: $76,900
 
 These figures help our investors forecast future payouts and estimate their potential monthly income from the dividend system.
