@@ -1,5 +1,6 @@
-
-# Tier System of ALAI Network
+Tier System of ALAI Network
+2025-01-13
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/58.webp
 
 ALAI Network offers a multi-level system that defines the conditions for participating in staking and the referral program. The tier level depends on the amount of $ALAI tokens in your balance. The $ALAI tokens are only an indicator of your level and do not participate in staking or payouts.
 
@@ -37,9 +38,13 @@ The bonus size depends on your level (tier), which is determined by the amount o
 
 ### Referral Program Conditions:
 - **Default (Basic Level)**: 5%
+
 - **Tier 1**: 8%
+
 - **Tier 2**: 11%
+
 - **Tier 3**: 14%
+
 - **Tier 4**: 17.5%
 
 ### Example Calculation for Tier 2:
