@@ -1,4 +1,6 @@
 Current TOP-30 Buyers (January 13, 2025 – Today)
+2025-01-17
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/61.webp
 
 Below is the updated list of the most active participants who have made purchases since January 13, 2025. These users have already secured a spot in the leaderboard for receiving bonuses. Check your wallet in the list and join the contest for a chance to win additional rewards!
 
