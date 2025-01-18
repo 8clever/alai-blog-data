@@ -1,5 +1,7 @@
+Less Than 2 Days Left Before Results and Phase Change!
+2025-01-18
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/62.webp
 
-# Less Than 2 Days Left Before Results and Phase Change!
 
 The **TOP-30 buyers competition** is heating up, and the winners will be announced on **January 20, 2025**, alongside the conclusion of Phase 8.
 
@@ -49,4 +51,4 @@ The **TOP-30 buyers competition** is heating up, and the winners will be announc
 - **11th–20th Places:** +50% of the purchase amount  
 - **21st–30th Places:** +25% of the purchase amount  
 
-⏳ There’s still time to increase your ranking before the phase change! Secure your place in the competition now.
+There’s still time to increase your ranking before the phase change! Secure your place in the competition now.
