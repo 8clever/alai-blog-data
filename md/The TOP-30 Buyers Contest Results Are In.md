@@ -1,5 +1,5 @@
 The TOP-30 Buyers Contest Results Are In
-2025-01-20
+2025-01-20T16:00:00Z
 https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/65.webp
 
 Thank you all for your participation and support! Here is the full list of the leaders:
