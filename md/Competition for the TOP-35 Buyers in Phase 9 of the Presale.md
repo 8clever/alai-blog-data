@@ -14,19 +14,7 @@ ALAI Network is excited to announce a new competition for participants in Phase 
 
 Bonuses will be awarded based on your ranking among buyers:
 
-| Rank | Bonus to Deposit |
-| - | - |
-| 1 | +300% |
-| 2 | +210% |
-| 3 | +150% |
-| 4 | +100% |
-| 5 | +70% |
-| 6-7 | +50% |
-| 8-10 | +35% |
-| 11-15 | +25% |
-| 16-20 | +15% |
-| 21-25 | +10% |
-| 26-35 | +5% |
+![Prize Table](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/11.1.1.webp) 
 
 ## Additional Terms
 
