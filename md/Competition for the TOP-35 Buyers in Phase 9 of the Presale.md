@@ -1,5 +1,6 @@
-
-# Competition for the TOP-35 Buyers in Phase 9 of the Presale
+Competition for the TOP-35 Buyers in Phase 9 of the Presale
+2025-01-21
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/67.webp
 
 ALAI Network is excited to announce a new competition for participants in Phase 9 of the presale. This is your chance to not only acquire tokens but also receive incredible bonuses based on your purchase volume.
 
