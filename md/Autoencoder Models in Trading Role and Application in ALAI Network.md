@@ -1,5 +1,6 @@
-
-# Autoencoder Models in Trading: Role and Application in ALAI Network
+Autoencoder Models in Trading: Role and Application in ALAI Network
+2025-01-22
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/68.webp
 
 Autoencoder Models are a powerful machine learning tool used to detect market anomalies such as price manipulation, sudden trading volume spikes, or other irregular events. These models help ALAI Network make informed trading decisions, mitigate risks, and identify optimal entry and exit points.
 
@@ -19,6 +20,8 @@ Anomalies detected by the model are used for:
 ### Example of Use
 **Scenario:** A sudden spike in the trading volume of a low-liquidity token  
 In a specific market, a token that usually trades with low volumes suddenly shows abnormally high volume over a short period. The autoencoder flags this as an anomaly, as such volumes are inconsistent with the asset's normal behavior.
+
+![Example of Use](https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/12.1.1.webp) 
 
 **Model Analysis:**
 - The model identifies two possible causes:
