@@ -1,4 +1,6 @@
-### Current Results of the Top 35 Buyers Competition, Phase 9 (23.01, 12:00 UTC)
+Current Results of the Top 35 Buyers Competition, Phase 9
+2025-01-23
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/69.webp
 
 The competition is in full swing, and there are only 4 days left until the results are announced! Now is the perfect time to track your position and make a final push to improve it. Remember, all participants who make it into the top 35 will receive deposit bonuses. Don’t miss your chance to boost your earnings!
 
