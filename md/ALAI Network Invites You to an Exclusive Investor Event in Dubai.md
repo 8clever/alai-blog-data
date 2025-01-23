@@ -1,4 +1,4 @@
-ALAI Network Invites You to an Exclusive Investor Event in Dubai!
+ALAI Network Invites You to an Exclusive Investor Event in Dubai
 2024-10-11
 https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/13.webp
 
