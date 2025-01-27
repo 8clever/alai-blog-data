@@ -1,4 +1,4 @@
-Phase 9 Has Ended: Top-35 Contest Results!
+Phase 9 Has Ended: Top-35 Contest Results
 2025-01-27
 https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/78.webp
 
