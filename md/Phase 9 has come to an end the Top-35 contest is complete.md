@@ -1,5 +1,5 @@
 Phase 9 Has Ended: Top-35 Contest Results
-2025-01-27
+2025-01-27T12:00:00Z 
 https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/78.webp
 
 We are excited to announce the results of Phase 9! The participants showed great results, and each of the top-35 receives a well-deserved bonus. Congratulations to the winners!
