@@ -1,53 +1,69 @@
-Current Results of the Top 35 Buyers Competition, Phase 9
-2025-01-23
-https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/69.webp
+2 Hours Left Until the Top 35 Buyers Results
+2025-01-27
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/76.webp
 
-The competition is in full swing, and there are only 4 days left until the results are announced! Now is the perfect time to track your position and make a final push to improve it. Remember, all participants who make it into the top 35 will receive deposit bonuses. Don’t miss your chance to boost your earnings!
-
-Below is the current leaderboard, showing the wallets of participants and the amount of ALAI they have accumulated so far. Stay tuned and keep an eye on your progress!
+There's still a chance to change your position in the top rankings — only **2 hours left**! Check your results and seize the opportunity to improve your standing before the competition ends.
 
 ---
 
-#### Top 35 Buyers (as of 23.01, 12:00 UTC)
+## Current Top 35 Buyers
 
-| Rank  | Wallet                                      | ALAI Amount  |
-|-------|---------------------------------------------|--------------|
-| #1    | 0x93839AdabAd73cE972429895f055929391C2bf78   | 10899.20     |
-| #2    | 0xEe67e6782f1EB86D55d2a566445622FbaB59a470   | 1656.94      |
-| #3    | 0x25AfF0565ec6b097874213f9af6577fB527A3530   | 704.51       |
-| #4    | 0x80FABF93645E5A9347210B8A470D208Fecd2689B   | 334.66       |
-| #5    | 0x4652f6Cab94D59b368e0150d191A1a1c76EaC28B   | 307.52       |
-| #6    | 0xCE084359Eb7edd1c7774436eD7416A638E4a7720   | 270.38       |
-| #7    | 0x4F41ab157f54E827b2a38600D24C70d746Ee31e6   | 172.32       |
-| #8    | 0x7ce7FF67f500d27a764Dccf1bc8791235DF5842a   | 140.90       |
-| #9    | 0x24279678F637FBd8B5d08905734C8AFc5742559C   | 129.51       |
-| #10   | 0x70De3C835ae586Ac1a3dBC3b978d0619d618bed9   | 121.20       |
-| #11   | 0x6ee511dd3A6B37E4Ee0aa77F35eCA79A30D034af   | 108.53       |
-| #12   | 0x7e48F601E0D1b96f44B1DdccD15BF7aF4F3E92e2   | 64.99        |
-| #13   | 0xb2d0d76eBb0805d9c1B91DdcFe6990074c35f449   | 54.26        |
-| #14   | 0x3AcCDC8f47f486A9fe0E682FE9808393Cc0dC3c8   | 52.83        |
-| #15   | 0xA40FFbdE80ba1D653a7E0F781A2A6BD73B6d7013   | 44.32        |
-| #16   | 0x73c064De6Dae0816e8CA96c870ae78D7FF257e3a   | 39.79        |
-| #17   | 0x0db3856b213B423A5d13bB9163372915FC48AeD8   | 37.98        |
-| #18   | 0x03298ca74f22e6f5fa562cD86b85C84752a61C08   | 37.93        |
-| #19   | 0x0794F573E4B4b993238946f518dFDd9b3a6dD3c4   | 32.24        |
-| #20   | 0x737671468d09c05E6f01B64029E4c3c1E618d717   | 27.09        |
-| #21   | 0x52b6170676A79a6AA757C8670b538152EEd71A91   | 25.74        |
-| #22   | 0x0E38847f83ed457DB2c04ef2C7d57e682567276C   | 22.28        |
-| #23   | 0x8CC46BD02272c8c5335Eeef0b0a1213d56060C8f   | 18.99        |
-| #24   | 0xc9DcCDA861Ea11ADB3160015C76DBa8B4594f59b   | 18.08        |
-| #25   | 0x354F2D228161DFEB1429d7351E833733eAB39254   | 17.18        |
-| #26   | 0xC5DD42ef8Ccb6124F01f8B1c3d7affbc7fC9a2d8   | 14.76        |
-| #27   | 0xD625b76094ed7f19140114Ff8a46f97a4C0f319f   | 13.54        |
-| #28   | 0x771cfCe21B4dE74Ce1CEe6f8dfd97055FF034497   | 11.99        |
-| #29   | 0xd935020CAC8E5993C7ed2c5300769BBca0059b00   | 11.10        |
-| #30   | 0xD044e3929E4DF4E5a26B97f51c1c7468f3A1BBB0   | 10.85        |
-| #31   | 0x0f4a965837dce8EF64509dE7851cB9fD91091B16   | 9.99         |
-| #32   | 0xC3477f2CaEE7a8b63D2Db09E28728E6aFb16b338   | 9.04         |
-| #33   | 0x7fbaF5fD0D2D1DCa7492eb240A1d90e59747Bd91   | 7.23         |
-| #34   | 0xEf0b23845E10b8a15ccF15ea20a77677D18E3229   | 6.99         |
-| #35   | 0xE1192bd54540F2dDeB8EF688731a55A9B436f2A7   | 6.77         |
+| Rank | Wallet                                      | ALAI Amount | Potential Bonus % |
+|------|---------------------------------------------|-------------|-------------------|
+| #1   | 0xA8674c9206Fff3ad3ADcf38364B0f6537aae7688 | 28315.94    | +300%             |
+| #2   | 0x425F273a90d8df95508646a0dDc230Bae7a7eE74 | 18496.98    | +210%             |
+| #3   | 0x93839AdabAd73cE972429895f055929391C2bf78 | 10899.20    | +150%             |
+| #4   | 0x551029c22b3e5566a82eb0101cB200f99fBCC0e8 | 3612.71     | +100%             |
+| #5   | 0x4652f6Cab94D59b368e0150d191A1a1c76EaC28B | 3021.02     | +70%              |
+| #6   | 0x24DdCAcae58B29a5B6185C61A773a9e8F0C90A8E | 2903.98     | +50%              |
+| #7   | 0x04732eaA4ed1218B81314E711c5c898Df9590A8A | 2792.30     | +50%              |
+| #8   | 0x028501fc119F2c365cd6B0E13b325700df4b3729 | 2249.01     | +35%              |
+| #9   | 0xC8D9F3cfB8751170d11B9C38b4511E749deC26A5 | 1944.67     | +35%              |
+| #10  | 0xEe67e6782f1EB86D55d2a566445622FbaB59a470 | 1656.94     | +35%              |
+| #11  | 0x81c2A492B0b7978C0dA15B469086558BA873Af60 | 1490.31     | +25%              |
+| #12  | 0xF9F27D45D08339162baEC6c1Cf5cbA248b55c00c | 1457.79     | +25%              |
+| #13  | 0x14aD08861eFDddb2BCd6B0d4BddC6657c5278B24 | 1354.82     | +25%              |
+| #14  | 0x3A54741133d425B31bCEA72Aa995873bD8D8f4B8 | 1292.37     | +25%              |
+| #15  | 0x7bD74280AD91Fd08F415F1c0d06b902ec284E6f8 | 1266.29     | +25%              |
+| #16  | 0x9a1c893FF8a488B7170215EDcebeF8435FC9c5ce | 1238.31     | +15%              |
+| #17  | 0x5309be921D6283D73031D358D035cAa6438c594c | 1140.31     | +15%              |
+| #18  | 0xa90A0F4eA4738154d499F663B8b8210073BcDd93 | 1138.05     | +15%              |
+| #19  | 0x25AfF0565ec6b097874213f9af6577fB527A3530 | 704.51      | +15%              |
+| #20  | 0x9fc450FD83e0B6e3B2b296c5c242fc474B85bf52 | 683.74      | +15%              |
+| #21  | 0x8f717FdCFb7ec666b0e6911a24a34a16379F4590 | 677.41      | +10%              |
+| #22  | 0x7421A09983f4D1f1913B9Dd63fC5443395BdCfB6 | 569.02      | +10%              |
+| #23  | 0xCE084359Eb7edd1c7774436eD7416A638E4a7720 | 541.34      | +10%              |
+| #24  | 0x7819Ade3F642b0c4391ebF1c53fe8FF3753db489 | 442.14      | +10%              |
+| #25  | 0x4F41ab157f54E827b2a38600D24C70d746Ee31e6 | 343.98      | +10%              |
+| #26  | 0x80FABF93645E5A9347210B8A470D208Fecd2689B | 334.66      | +5%               |
+| #27  | 0x8f3B6647CbA9bb3B39Df6895DA8523237d22479a | 312.96      | +5%               |
+| #28  | 0x281b6838c073ed830ffF0fA6CF9CDDD3ddBdBfC2 | 299.99      | +5%               |
+| #29  | 0xb90f28a14C6130EF60a6E5094388535512d9132A | 259.99      | +5%               |
+| #30  | 0xb3B027470d9005B785f6f23d62618e44C71bD209 | 258.77      | +5%               |
+| #31  | 0x6DD1FA84760CF8Af986f31802fE890Ec5069130D | 217.07      | +5%               |
+| #32  | 0x106e8147aFc385D9A938443a0DA5f0f042e6De85 | 217.07      | +5%               |
+| #33  | 0x305cDF752BBAD2cfC8145f248117E0CFc1bfffA7 | 198.98      | +5%               |
+| #34  | 0x4685b944b5B177d36A387d171a7AC0aDb8c8ab7b | 195.09      | +5%               |
+| #35  | 0x1627362cB655abEbF8B1fA9Ed221Fb999B970e09 | 180.89      | +5%               |
 
 ---
 
-Hurry up and improve your position before the competition ends! The results will be announced in 4 days, and we’ll find out who makes it into the top 35 and earns the well-deserved bonuses. Good luck to all participants!
+## Bonus Distribution for the Top 35
+
+| Rank Range     | Bonus Percentage |
+|----------------|------------------|
+| 1st place      | +300%            |
+| 2nd place      | +210%            |
+| 3rd place      | +150%            |
+| 4th place      | +100%            |
+| 5th place      | +70%             |
+| 6th-7th place  | +50%             |
+| 8th-10th place | +35%             |
+| 11th-15th place| +25%             |
+| 16th-20th place| +15%             |
+| 21st-25th place| +10%             |
+| 26th-35th place| +5%              |
+
+---
+
+The competition ends in **2 hours**, and the results will be finalized soon. Stay tuned for the official announcement!
