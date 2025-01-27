@@ -1,5 +1,6 @@
-
-# Phase 9 Has Ended: Top-35 Contest Results!
+Phase 9 Has Ended: Top-35 Contest Results!
+2025-01-27
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/78.webp
 
 We are excited to announce the results of Phase 9! The participants showed great results, and each of the top-35 receives a well-deserved bonus. Congratulations to the winners!
 
@@ -7,7 +8,7 @@ We are excited to announce the results of Phase 9! The participants showed great
 
 | Rank | Wallet Address                                                       | ALAI Value | Bonus (%) |
 |------|-----------------------------------------------------------------------|------------|-----------|
-| 1    | [0xA8674c9206Fff3ad3ADcf38364B0f6537aae7688](https://bscscan.com/tx/0x8a32266f47685413adf858f2dc3e771685231cdceec44fca91d1798d51256b76) | 77089.82   | +300%     |
+| 1    | 0xA8674c9206Fff3ad3ADcf38364B0f6537aae7688| 77089.82   | +300%     |
 | 2    | 0x26A067EE0CC1d5D598C685e7532Ac1b4c83Aa612                          | 58999.99   | +210%     |
 | 3    | 0x425F273a90d8df95508646a0dDc230Bae7a7eE74                          | 18496.98   | +150%     |
 | 4    | 0x93839AdabAd73cE972429895f055929391C2bf78                          | 10899.20   | +100%     |
@@ -43,6 +44,8 @@ We are excited to announce the results of Phase 9! The participants showed great
 | 34   | 0x6DD1FA84760CF8Af986f31802fE890Ec5069130D                          | 217.07     | +5%       |
 | 35   | 0x106e8147aFc385D9A938443a0DA5f0f042e6De85                          | 217.07     | +5%       |
 
+
+[Reward Payment Information](https://bscscan.com/tx/0x8a32266f47685413adf858f2dc3e771685231cdceec44fca91d1798d51256b76)
 ## Thank You for Participating!
 
 Thank you to all participants for their efforts and activity. Stay tuned for updates so you don't miss the next phase and new opportunities to earn with ALAI!
