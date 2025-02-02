@@ -2,7 +2,7 @@ Less Than 20 Hours Until the End of Phase 10 & Contest
 2025-02-02
 https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/85.webp
 
-**45 Hours Left to Influence the Top 100!**  
+**20 Hours Left to Influence the Top 100!**  
 The **Top 100 Buyers Contest** is coming to an end, and you still have **20 hours** to secure your position and earn **bonus ALAI deposits**. Plus, this is your **last chance to buy ALAI at the presale price** before Phase 10 concludes on **February 3rd at 12:00 UTC**.  
 
 [Current Top 100 List](https://docs.google.com/spreadsheets/d/1_srdg0eJpINV0LD8xIHKCjYJKOG-rokKzEdgJx9phTY/edit?gid=0#gid=0).
