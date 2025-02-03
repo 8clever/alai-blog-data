@@ -1,5 +1,6 @@
-
-# What is the PreListing Phase?
+What is the PreListing Phase?
+2025-02-03
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/90.webp
 
 The PreListing Phase is a strategic stage in ALAI Network, primarily intended for partners but also available to the community. It provides the opportunity to purchase ALAI tokens at a stable price of $0.81, ensuring fair and transparent purchases for all participants until the official listing.
 
