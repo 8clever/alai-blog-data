@@ -1,5 +1,6 @@
-
-# Invitation to the ALAI Summit in Dubai!
+Invitation to the ALAI Summit in Dubai
+2025-02-04
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/91.webp
 
 We have officially taken a snapshot of the top 10 ALAI holders following the completion of the 10th presale phase. To mark this milestone, we are inviting our leading investors to an exclusive summit in the UAE! This is a unique opportunity to discuss the current progress of the project, its future, and key technological advancements.
 
