@@ -1,4 +1,6 @@
-# Final Offer Before Listing – 25% Discount on $ALAI
+Final Offer Before Listing – 25% Discount on $ALAI
+2025-02-10
+https://raw.githubusercontent.com/8clever/alai-blog-data/refs/heads/main/images/93.webp
 
 We are launching the final promotion before ALAI's listing on Bybit, giving every ALAI Network participant the chance to buy tokens at a 25% discount.
 
@@ -15,13 +17,17 @@ This is the **last chance** to buy ALAI at a reduced price before the listing, a
 ## How to Participate?
 
 ### Promotion Period
+
 - **Start:** February 10, 2025, at 15:00 UTC  
+
 - **End:** February 15, 2025, at 23:59 UTC  
 
 ### Token Price During the Promotion
+
 - **Fixed price:** $0.61 per ALAI  
 
 ### How to Purchase
+
 - Detailed instructions on how to participate, including payment addresses, will be provided closer to the launch date.
 
 ## What Happens After the Promotion Ends?
